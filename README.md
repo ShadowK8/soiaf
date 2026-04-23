@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASOIAF™ Discord Roleplay Bot
 
 ## Kurulum
@@ -127,3 +128,6 @@ const CHECK = '<a:check:EMOJI_ID>';
 // Statik
 const SHIELD = '<:shield:EMOJI_ID>';
 ```
+=======
+# soiaf
+>>>>>>> a446165205416a312d88f2f64128ae3a62040a2b
