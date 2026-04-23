@@ -1,0 +1,20 @@
+{
+  "name": "asoiaf-bot",
+  "version": "1.0.0",
+  "description": "ASOIAF Discord Roleplay Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node src/utils/deploy.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "mongoose": "^8.9.0",
+    "dotenv": "^16.4.7",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

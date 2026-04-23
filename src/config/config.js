@@ -1,0 +1,24 @@
+module.exports = {
+  channels: {
+    MESAJ_LOG:       '1495773005349912649',
+    SES_LOG:         '1495773005349912650',
+    GIRIS_CIKIS_LOG: '1495773005349912651',
+    SUNUCU_LOG:      '1495773005349912653',
+    UYE_LOG:         '1495773005349912654',
+    KAYIT_LOG:       '1495773005349912655',
+    SOHBET:          '1495773009284169789',
+    HOSGELDIN:       '1495773006805336209',
+    HAFTALIK_SIRALAMA: '1495773003068342515',
+    OFFLINE_LOG:     '1495773005828329574',
+  },
+
+  guildId: process.env.GUILD_ID,
+
+  colors: {
+    SUCCESS:  0x2ecc71,
+    ERROR:    0xe74c3c,
+    WARNING:  0xf39c12,
+    INFO:     0x3498db,
+    KAYIT:    0x9b59b6,
+  },
+};
